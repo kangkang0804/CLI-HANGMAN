@@ -1,7 +1,7 @@
 # CLI HANGMAN APP . 
 
-[Click to view my Portfolio](https://kangkang0804.github.io/MyPortfolio/)
-
+[Click to view my Portfolio](https://kangkang0804.github.io/MyPortfolio/) . :100:
+ 
 
 
 ### This is a word game meant only to be played in Node-js 
