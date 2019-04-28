@@ -1,4 +1,6 @@
-# CLI HANGMAN APP . [My Portfolio!](https://kangkang0804.github.io/MyPortfolio/)
+# CLI HANGMAN APP . 
+
+[My Portfolio](https://kangkang0804.github.io/MyPortfolio/)
 
 
 
