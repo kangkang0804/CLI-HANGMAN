@@ -16,3 +16,8 @@ The user will immediately be asked to select a letter and press enter. The words
 There are limitations to the users guess. It **must** be a letter and can only be **one** character. Otherwise, user will be prompted with an invalid guess message, and asked to guess again. 
 
 
+# Dependencies . 
+
+- > colors
+- > inquirer
+
