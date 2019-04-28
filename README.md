@@ -1,6 +1,6 @@
 # CLI HANGMAN APP . 
 
-[My Portfolio](https://kangkang0804.github.io/MyPortfolio/)
+[Click to view my Portfolio](https://kangkang0804.github.io/MyPortfolio/)
 
 
 
