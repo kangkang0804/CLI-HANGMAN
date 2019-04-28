@@ -5,7 +5,7 @@
 ### This is a word game meant only to be played in Node-js
 
 Both the **word.js** and **letter.js** files are constructors
-**_index.js_** depends on word.js which depends on letter.js
+where **_index.js_** depends on word.js which depends on letter.js
 
 The user will immediately be asked to select a letter and press enter. The words that the user will be trying to guess come from a list of NBA players. The user is granted 10 incorrect guesses to reveal the player!
 
