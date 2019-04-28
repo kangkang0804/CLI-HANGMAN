@@ -4,7 +4,8 @@
 
 
 
-### This is a word game meant only to be played in Node-js
+### This is a word game meant only to be played in Node-js 
+:sunglasses: :sunglasses: :sunglasses: :sunglasses:
 
 Both the **word.js** and **letter.js** files are constructors
 where **_index.js_** depends on word.js which depends on letter.js
