@@ -17,12 +17,10 @@ There are limitations to the users guess. It **must** be a letter and can only b
 
 ![](CLI-HANGMAN1.gif)
 
-
 If the user guesses all the letters correctly before his/her allowed guesses are up he/she wins, the Player will be displayed, and then it is on to the next player. However, if the user is unable to guess the player then the player's name will display in red.
 
 
 ![](CLI-HANGMAN2.gif)
-
 
 
 # Dependencies . 
