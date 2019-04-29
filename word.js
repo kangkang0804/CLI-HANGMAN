@@ -1,5 +1,6 @@
 const Letter = require('./letter.js');
 
+
 function Word(wordArray){
     this.wordArray = wordArray;
     this.hiddenWord = [];
@@ -7,7 +8,6 @@ function Word(wordArray){
     this.createWord = function() {
         for (var i = 0; i<wordArray.length; i++){
             var let = new Letter(wordArray[i]);
-            console.log(let)
             this.hiddenWord.push(let)
         }
     };
